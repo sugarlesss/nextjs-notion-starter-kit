@@ -45,7 +45,7 @@ module.exports = {
   //
   pageUrlOverrides: {
     '/about': '46669f4ecba84783985b94cc7b425ae8',
-    '/friends': '106249ab34cf473092891f26885563f9',
+    '/friends': '66197de0b54d4d55ad4de311172bb699',
   }
   // pageUrlOverrides: null
 }
