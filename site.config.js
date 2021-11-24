@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'b54df9018ec24fac8c68d10f1f3347a6',
+  rootNotionPageId: 'f2ba4f8445c641aba2161bbf7362343c',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,12 +8,12 @@ module.exports = {
 
   // basic site info (required)
   name: '無糖的小宇宙',
-  domain: 'https://www.notion.so/sugarless/Blog-b54df9018ec24fac8c68d10f1f3347a6',
+  domain: 'https://www.notion.so/sugarless/f2ba4f8445c641aba2161bbf7362343c',
   author: '無糖',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'Sugarless',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
