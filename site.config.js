@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '無糖的小宇宙',
-  domain: 'https://notion.sugarless.cn/',
+  domain: 'notion.sugarless.cn',
   author: '無糖',
 
   // open graph metadata (optional)
