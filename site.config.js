@@ -12,9 +12,11 @@ module.exports = {
   author: '無糖',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '無糖的小宇宙',
   socialImageTitle: 'Sugarless',
   socialImageSubtitle: 'Hello World! 👋',
+
+  includeNotionIdInUrls: false,
 
   // social usernames (optional)
   twitter: '',
