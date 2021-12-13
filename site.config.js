@@ -16,7 +16,7 @@ module.exports = {
   socialImageTitle: 'Sugarless',
   socialImageSubtitle: 'Hello World! 👋',
 
-  includeNotionIdInUrls: false,
+  includeNotionIdInUrls: true,
 
   // social usernames (optional)
   twitter: '',
